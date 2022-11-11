@@ -1,4 +1,4 @@
-module github.com/kardianos/service
+module github.com/openp2p-cn/service
 
 go 1.12
 
